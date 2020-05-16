@@ -1,0 +1,7 @@
+id,kind,name,birthYear,gender,spayed or neutered
+0,dog,Tweety,1941,m,false
+66,dog,Daisy,2014,f,false
+25,cat,Sylvester,1940,m,false
+-869749165,2,Precious,2001,f,false
+1439449905,2,Daisy,2014,f,false
+1307323235,0,Malo,2010,m,true
